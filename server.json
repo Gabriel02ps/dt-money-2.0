@@ -5,7 +5,7 @@
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
-      "price": "14000",
+      "price": 14000,
       "createdAt": "2023-04-18T13:15:33.154Z"
     },
     {
@@ -13,7 +13,15 @@
       "description": "Comida",
       "type": "outcome",
       "category": "Alimentação",
-      "price": "50",
+      "price": 60,
+      "createdAt": "2023-04-18T13:40:33.154Z"
+    },
+    {
+      "id": "3",
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
       "createdAt": "2023-04-18T13:40:33.154Z"
     }
   ]
